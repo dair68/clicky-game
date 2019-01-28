@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Homer Simpson",
+        "url": "https://static.tvtropes.org/pmwiki/pub/images/homer_1042.jpg",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "name":"Bart Simpson",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/bartsimpson_615.jpg",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "name":"Lisa Simpson",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/lisa-simpson_6078.jpg",
+        "clicked": false
+    },
+    {
+        "id":4,
+        "name":"Marge Simpson",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/margesimpson_1431.jpg",
+        "clicked": false
+    },
+    {
+        "id":5,
+        "name":"Maggie Simpson",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/maggiesimpson_8675.jpg",
+        "clicked": false
+    }
+]
