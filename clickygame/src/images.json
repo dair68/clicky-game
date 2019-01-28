@@ -28,5 +28,23 @@
         "name":"Maggie Simpson",
         "url":"https://static.tvtropes.org/pmwiki/pub/images/maggiesimpson_8675.jpg",
         "clicked": false
+    },
+    {
+        "id":6,
+        "name":"Mr. Burns",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/EvilMrBurns_2832.jpeg",
+        "clicked": false
+    },
+    {
+        "id":7,
+        "name":"Smithers",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/smithers_123_2405.jpg",
+        "clicked": false
+    },
+    {
+        "id":8,
+        "name":"Ned Flanders",
+        "url":"https://static.tvtropes.org/pmwiki/pub/images/ned_flanders.png",
+        "clicked": false
     }
 ]

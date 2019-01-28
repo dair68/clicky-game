@@ -4,9 +4,9 @@ import Image from "./Image";
 //the component containing the clickable images
 function ImageContainer(props) {
     const images = props.images;
-    
+
     return (
-        <div>
+        <div className="container">
         {
             props.imageOrder.map(index =>
                 <Image
